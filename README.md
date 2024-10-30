@@ -1,4 +1,4 @@
-Comment vérifier la configuration actuelle de Git sur votre machine, notamment le nom d’utilisateur et l’adresse e-mail ? Utilisez la commande git config --list
+Comment vérifier la configuration actuelle de Git sur votre machine, notamment le nom d’utilisateur et l’adresse e-mail ? Utilisez la commande  git config --list
 
 *Comment modifier votre adresse e-mail si vous l'avez mal configurée lors de l'installation de Git ? Exécutez git config --global user.email "votre-nouvelle-email@example.com"
 
